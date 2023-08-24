@@ -178,7 +178,7 @@ The final folder will be shown as:
 
 ### WebUI Demos:
 
-**Online**: [Huggingface](https://huggingface.co/spaces/vinthony/SadTalker) | [SDWebUI-Colab](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb) | [Colab](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb)
+**Online**: [Huggingface](https://huggingface.co/spaces/vinthony/SadTalker) | [SDWebUI-Colab](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb) | [Colab](https://github.com/alinaivanovaoff/SadTalker/blob/main/quick_demo.ipynb)
 
 **Local Autiomatic1111 stable-diffusion webui extension**: please refer to [Autiomatic1111 stable-diffusion webui docs](docs/webui_extension.md).
 
@@ -264,5 +264,5 @@ This is not an official product of Tencent. This repository can only be used for
 LOGO: color and font suggestion: [ChatGPT](ai.com), logo font：[Montserrat Alternates
 ](https://fonts.google.com/specimen/Montserrat+Alternates?preview.text=SadTalker&preview.text_type=custom&query=mont).
 
-All the copyright of the demo images and audio are from communities users or the geneartion from stable diffusion. Free free to contact us if you feel uncomfortable.
+All the copyrights of the demo images and audio are from community users or the generation from stable diffusion. Feel free to contact us if you feel uncomfortable.
 
